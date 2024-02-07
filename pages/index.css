@@ -210,17 +210,17 @@
   line-height: 52px;
 }
 
-.reservation__form {
-  margin: 80px auto 120px;
-  max-width: 385px;
-}
-
 .form {
   margin: 0;
   padding: 0;
   max-width: 385px;
   display: flex;
   flex-direction: column;
+}
+
+.reservation__form {
+  margin: 80px auto 120px;
+  max-width: 385px;
 }
 
 .form__fieldset {
