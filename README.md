@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+    I don't have much to add. Maybe more than one  animation to get more practice on them? Or adding more background elements like the blue circle.

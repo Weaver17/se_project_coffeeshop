@@ -1,0 +1,41 @@
+.card {
+  margin: 0;
+  padding: 0;
+  width: 540px;
+}
+
+.card__title {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 32px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.card__list-item {
+  display: flex;
+  white-space: nowrap;
+  padding: 0;
+  margin-bottom: 16px;
+  font-family: "Noto-serif", "Times New Roman", serif;
+  justify-content: space-between;
+}
+
+.card__list-item_last {
+  margin-bottom: 0;
+}
+
+.card__list-divider {
+  overflow: hidden;
+}
+
+.card_baked {
+  margin: 0 auto;
+}
