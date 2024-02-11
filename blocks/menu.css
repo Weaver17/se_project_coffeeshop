@@ -1,14 +1,17 @@
 .menu {
-  margin: 0 0 100px;
-  padding: 100px 0;
+  margin: 100px 0 0;
   height: 100vh;
-  min-height: 720px;
-  max-height: 800px;
-  position: relative;
+  min-height: 1040px;
+  max-height: 1040px;
   background-color: #fff;
   background-image: url(../images/background_menu.svg);
-  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .menu__title {
@@ -43,7 +46,7 @@
 .menu__cards {
   display: flex;
   flex-wrap: wrap;
-  width: 80%;
+  width: 1180px;
   margin: 100px auto;
   gap: 100px;
 }
