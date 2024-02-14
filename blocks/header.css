@@ -37,6 +37,7 @@
 }
 
 .header__description {
+  z-index: 1;
   font-family: "Noto serif", "Times New Roman", serif;
   max-width: 683px;
   margin-top: 0;
@@ -73,6 +74,7 @@
 
 .header__paragragh {
   z-index: 1;
+  margin: 0;
   margin-bottom: 0;
   align-self: flex-end;
 }
