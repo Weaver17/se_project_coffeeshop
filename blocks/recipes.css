@@ -35,17 +35,17 @@
   align-self: center;
 }
 
-.recipes__iframe {
+.recipes__iframes {
   margin: 0;
   padding: 0;
   display: inline-block;
 }
 
-.recipes__iframe:last-of-type {
+.recipes__iframes:last-of-type {
   margin-left: 40px;
 }
 
-.iframe {
+.recipes__iframe {
   border: none;
   margin: 0;
   padding: 0;
